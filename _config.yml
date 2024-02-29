@@ -44,7 +44,7 @@ sphinx:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/social-media-ethics-automation/book/  # TODO Script updates this to platform specific copy
+  url: https://github.com/social-media-ethics-automation/book-src-reddit/
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 launch_buttons:
